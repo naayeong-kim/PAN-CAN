@@ -28,19 +28,42 @@ PAN-CNA 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확
 #### 1. Decision Tree Classifier (DCT) <br/>
 - Graph to find optimal minimal splitting sample value for decision tree classifier <br/>
 <img src="img/TMS1.png" width="500" height="500"/>  <img src="img/TMS2.png" width="500" height="500"/> <br/>
+
 - Decision tree with minimal splitting sample value 100 <br/>
 <img src="img/DT1.png" width="500" height="500"/> <br/>
 
-#### 2. K-Nearest Neighbour Classifier (KNN) <br/>
-#### 3. Artificial Neural Network <br/>
-#### 4. Support Vector Machine (SVM) <br/>
+-  Graph to find optimal maximal tree depth for decision tree classifier with minimal splitting value 100 <br/>
+<img src="img/TMS3.png" width="600" height="600"/> <br/>
 
+#### 2. K-Nearest Neighbour Classifier (KNN) <br/>
+- Graph to find optimal number of neighbours for KNN classifier using PCA projected data <br/>
+<img src="img/KNN1.png" width="500" height="500"/> <br/>
+
+#### 3. Artificial Neural Network <br/>
+- Graph for average classification error for MPC classifier of 5 learning rates computed 10 times <br/>
+<img src="img/MPC.png" width="500" height="500"/> <br/>
+
+#### 4. Support Vector Machine (SVM) <br/>
+- SVM Classification error for linear and polynomial kernel type <br/>
+<img src="img/SVM.png" width="500" height="500"/> <br/>
+
+### Compare Classifier
+<img src="img/CC.png" width="700" height="700"/> <br/>
 
 ### Data Analysis
 #### 1. Principle Component Analysis (PCA) <br/>
+- Graph to explained variance of the first 10 PC and of the first 300 PC <br>
+<img src="img/pac10.png" width="400" height="300"/>  <img src="img/pac300.png" width="400" height="300"/> <br/>
+
 #### 2. Feature Selection <br/>
+- Two Samples among 10 trees printed <br/>
+<img src="img/tree1.png" width="500" height="800"/> <br/>
 
+- Feature-selection model tree <br/>
+<img src="img/tree2.png" width="500" height="650"/> <br/>
 
+- Classification Accuracy on FreqGenes <br/>
+<img src="img/MC.png" width="500" height="500"/> <br/>
 
 
 
