@@ -27,7 +27,8 @@ PAN-CNA 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확
 
 #### 1. Decision Tree Classifier (DCT) <br/>
 - Graph to find optimal minimal splitting sample value for decision tree classifier <br/>
-<img src="img/TMS1.png" width="500" height="500"/>  <img src="img/TMS2.png" width="500" height="500"/> <br/>
+  - Low detail: <img src="img/TMS1.png" width="500" height="500"/><br/>
+  - High detail: <img src="img/TMS2.png" width="500" height="500"/> <br/>
 
 - Decision tree with minimal splitting sample value 100 <br/>
 <img src="img/DT1.png" width="500" height="500"/> <br/>
@@ -53,7 +54,7 @@ PAN-CNA 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확
 ### Data Analysis
 #### 1. Principle Component Analysis (PCA) <br/>
 - Graph to explained variance of the first 10 PC and of the first 300 PC <br>
-<img src="img/pac10.png" width="400" height="300"/>  <img src="img/pac300.png" width="400" height="300"/> <br/>
+<img src="img/pca10.png" width="400" height="300"/>  <img src="img/pca300.png" width="400" height="300"/> <br/>
 
 #### 2. Feature Selection <br/>
 - Two Samples among 10 trees printed <br/>
