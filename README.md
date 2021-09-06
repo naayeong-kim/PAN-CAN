@@ -67,7 +67,7 @@ PAN-CNA 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확
 <img src="img/MC.png" width="500" height="500"/> <br/>
 <br/>
 
-더 자세한 결과 분석 및 고발은 [full report](report.pdf)를 참조하시기 바랍니다.<br/>
+더 자세한 결과 분석 및 고찰은 [full report](report.pdf)를 참조하시기 바랍니다.<br/>
 
 
 
