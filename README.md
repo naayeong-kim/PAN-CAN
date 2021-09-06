@@ -3,8 +3,8 @@
 DNA에서 유전자 발현의 프로필을 관찰하고 문서화를 할수 있도록 돕는 Micro-array gene expression 같은 현대 기술들은 DNA를 검사하고 연구하는데 새로운 방법을 제시하였습니다. 이로 인해 우리는 인체의 다양한 조건에서 유전자 발현이 어떻게 작용하는지에 대한 새로운 통찰력을 얻을 수 있었습니다. 특히 흥미로운 점은 종양이 유전자 발현 기능의 장애에 따른 결과라는 관점에서 이러한 기술이 암 환자를 연구하고 치료하는데 어떻게 사용될 수 있는지 연구하는 것 입니다. <br/>
 
 이 프로젝트는 Anaconda (Jupyter notebook) 을 이용하여 진행되었으며, 자세한 분석 방법 및 결과는 다음과 같은 추가 코드 파일 및 리포트에서 확인하실 수 있습니다.<br/> 
-- [(해당 연구에 대한 code 보러가기)](project.ipynb) <br/>
-- [(해당 연구에 대한 full report 보러가기)](report.pdf) <br/> 
+- [해당 연구에 대한 code 보러가기](project.ipynb) <br/>
+- [해당 연구에 대한 full report 보러가기](report.pdf) <br/> 
 
 ## Overview
 
@@ -65,8 +65,9 @@ PAN-CNA 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확
 
 - Classification Accuracy on FreqGenes <br/>
 <img src="img/MC.png" width="500" height="500"/> <br/>
+<br/>
 
-
+더 자세한 결과 분석 및 고발은 [full report](report.pdf)를 참조하시기 바랍니다.<br/>
 
 
 
