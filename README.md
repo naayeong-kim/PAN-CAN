@@ -14,7 +14,7 @@ DNA에서 유전자 발현의 프로필을 관찰하고 문서화를 할수 있�
 ## Dataset
 
 이 연구를 위해 선택된 데이터 세트는 ’[RNA-Seq (HiSeq) PANCAN data set](https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq)’ 데이터 콜렉션의 일부입니다. PANCAN 데이터 세트는 Cancer Genome Atlas Research Network 에서 개발한 Pan-Cancer 이니셔티브 프로젝트를 위해 구성되었으며, TCGA는 다양한 암 유형에 대한 정보를 저장, 프로파일링 및 분석하는데 기여를 합니다. 해당 데이터베이스에는 RNA, DNA, 단백질 및 후성 유전 수준에 대한 수백가지 종양 유형과 하위 유형의 데이터가 포함되어 있습니다. <br/>
-PAN-CNA 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확장하기 위해 TCGA 데이터베이스에 의해 프로파일링 된 처음 12개의 종양 유형 간의 연결을 분석하기 위해 만들어졌습니다. 우리는 이 프로젝트의 전체 데이터 컬렉션 중 5개의 용양 유형에 대한 하위세트만을 가져와서 연구를 진행하였습니다: <br/>
+PAN-CAN 프로젝트는 유사한 게놈 프로필을 기반으로 치료를 확장하기 위해 TCGA 데이터베이스에 의해 프로파일링 된 처음 12개의 종양 유형 간의 연결을 분석하기 위해 만들어졌습니다. 우리는 이 프로젝트의 전체 데이터 컬렉션 중 5개의 종양 유형에 대한 하위세트만을 가져와서 연구를 진행하였습니다: <br/>
 - Kidney renal clear cell carcinoma (KIRC) <br/>
 - Colon adenocarcinoma (COAD)<br/>
 - Lung adenocarcinoma (LUAD)<br/>
